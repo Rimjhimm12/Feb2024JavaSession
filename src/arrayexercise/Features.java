@@ -2,7 +2,8 @@ package arrayexercise;
 
 public class Features {
 public static void main(String args[]){
-  int i = 9;
-  System.out.println(i);
+  int i = 90;
+  int j = 89;
+  System.out.println(i+j);
 }
 }
